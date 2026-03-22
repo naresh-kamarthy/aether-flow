@@ -2,12 +2,15 @@
 
 **Autonomous Multi-Agent AI Orchestrator**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind 4](https://img.shields.io/badge/Tailwind-4-38B2AC?style=for-the-badge&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Gemini 2.5](https://img.shields.io/badge/Gemini_2.5-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
-![FSM](https://img.shields.io/badge/FSM-Finite_State_Machine-FF4B4B?style=for-the-badge)
+![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
+[![TS Strict](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind 4](https://img.shields.io/badge/Tailwind-4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+![Gemini 2.5-flash](https://img.shields.io/badge/Gemini_2.5-flash-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Sequential Agent Pipeline](https://img.shields.io/badge/Pipeline-Sequential_Agent-8b5cf6?style=for-the-badge)
+![Chain of Verification](https://img.shields.io/badge/Audit-Chain_of_Verification-10b981?style=for-the-badge)
+![Deterministic FSM](https://img.shields.io/badge/FSM-Deterministic-FF4B4B?style=for-the-badge)
 ![Vitest Coverage](https://img.shields.io/badge/Coverage-100%25-449124?style=for-the-badge&logo=vitest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Aether Flow is a premium, low-latency AI orchestration engine that leverages a multi-agent "Sequential Handoff Pipeline" to transform raw technical requirements into secure, audited architecture blueprints. Built with **React 19**, **TypeScript**, and **Gemini 2.5**, it features a deterministic execution flow powered by a robust Finite State Machine (FSM).
 
